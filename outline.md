@@ -24,6 +24,13 @@ Manage ships and crews on the Quellor Run
   - type
   - destination
   - status
+- Orders
+  - shipID
+  - routeId
+  - cargoid
+  - startDate
+  - endDate
+  - staus
 
 
 # App Stucture
@@ -32,13 +39,18 @@ Manage ships and crews on the Quellor Run
 - personelle
 - routes
 - cargo
+- orders
 
 # Functionality
 - CRUD on ships
 - CRUD on Personelle
 - CRUD on Routes
 - CRUD on cargo
+- CRUD on orders
 - assign crew to ships
 - assign ships to routes
 - assign cargo to ships
 - overview
+
+## Design
+- Use Angular Medium - pink, bluegrey, red
