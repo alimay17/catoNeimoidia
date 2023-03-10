@@ -16,9 +16,9 @@ Manage ships and crews on the Quellor Run
   - jobTitle
   - status
 - Routes
- - routeId
- - planets
- - cargoType
+  - routeId
+  - planets
+  - cargoType
 - cargo
   - id
   - type
