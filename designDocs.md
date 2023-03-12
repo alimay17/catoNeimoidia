@@ -52,5 +52,10 @@ Manage ships and crews on the Quellor Run
 - assign cargo to ships
 - overview
 
-## Design
-- Use Angular Medium - pink, bluegrey, red
+## Angular Packages
+- Medium
+- 
+
+## Node Packages
+- express body-parser cookie-parser morgan
+- Mongoose
